@@ -6,7 +6,7 @@ The data that we have is from 2007-2010.
 Problem Statement
 Using the Decision Tree model, classify whether or not the borrower paid back their loan in full.
 
-#About dataset
+# About dataset
 A zipped file containing the following items is given:
 
 train.csv
@@ -21,7 +21,7 @@ Explained under the Submission sub-heading
 Loan_Defaulters_Data_Dictionary.csv
 The file contains data dictionary(Dictionary explaining what each feature of the dataset means) of the Insurance Claim dataset
 
-#After completing this project, you will have a better understanding of how to build a decision tree model. In this project, you will apply the following concepts.
+# After completing this project, you will have a better understanding of how to build a decision tree model. In this project, you will apply the following concepts.
 
 Train-test split
 Correlation between the features
