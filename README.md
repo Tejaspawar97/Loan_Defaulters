@@ -23,7 +23,7 @@ The file contains data dictionary(Dictionary explaining what each feature of the
 
 # In this project, I applied the following concepts.
 
-Train-test split
-Correlation between the features
-Decision Tree Modeling
-Evaluation Metrics
+Train-test split, 
+Correlation between the features,
+Decision Tree Modeling,
+Evaluation Metrics.
